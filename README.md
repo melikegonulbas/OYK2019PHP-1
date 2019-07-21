@@ -2,7 +2,7 @@
 # Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları
 ## 20.07.2019 Birinci Gün Notları
 
-![Kamp] (https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
+![Kamp](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
 
 ### Ubuntu’da Bazı Apt Komutları
  
@@ -10,11 +10,11 @@
  ---|---|---
 ```sudo apt install paket-ismi```|Bu komut ile sistemimize ubuntu depolarında bulunan her paketi kurabiliriz. 
 
-```sudo apt remove paket-ismi``` |Bu komut ile istediğimiz paketi silebiliriz. 
+```sudo apt remove paket-ismi```|Bu komut ile istediğimiz paketi silebiliriz. 
 
-```sudo apt update``` |Paket listesini günceller.
+```sudo apt update```|Paket listesini günceller.
 
-```sudo apt upgrade``` |Sistemde kurulu paketleri günceller.
+```sudo apt upgrade```|Sistemde kurulu paketleri günceller.
 
 ### Paket yöneticileri (apt, yum, pkg)
 - Paket yükleme işlemleri kolaylaşır.
